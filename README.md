@@ -1,16 +1,11 @@
-# Hi, I'm Pasi Abe 👋
+# Pasi Abe
 
-Cybersecurity Architect | AI Engineer | Infrastructure Engineer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=60&lines=Cybersecurity+Architecture+%7C+AI+Engineering+%7C+Tech+Leadership;Secure+systems+%E2%86%92+Automate+workflows+%E2%86%92+Enable+people)](https://github.com/YOUR_USERNAME)
 
-Security-focused technology leader specializing in cybersecurity architecture, AI/LLM systems, infrastructure automation, and secure platform engineering.
+---
 
-Experienced across:
-- Cybersecurity & Security Engineering
-- AI Agents & LLM Engineering
-- DevSecOps & Infrastructure Automation
-- Cloud-Native & Distributed Systems
-- Secure Application & API Architecture
+## `whoami`
 
-I build secure-by-design systems, scalable engineering platforms, and autonomous AI workflows that solve complex technical challenges at scale.
-
-Beyond engineering, I’m a people leader passionate about mentoring teams, enabling growth, and helping individuals maximize their potential.
+```bash
+$ whoami
+pasi:cybersecurity_architect:ai_engineer:technology_leader:people_enabler
