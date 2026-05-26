@@ -1,106 +1,125 @@
-# Merge_Conflict - Pasi
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&weight=900&color=F7961D&size=22&duration=3000&pause=1000&width=900&height=60&lines=Cybersecurity+Architect+%7C+AI+Engineer+%7C+Tech+Architect;Secure+Systems+%7C+Autonomous+AI+%7C+Infrastructure+Engineering;Building+Technology+That+Protects%2C+Scales%2C+and+Empowers)](https://github.com/YOUR_USERNAME)
+# Pasi Abe
+
+<img src="https://readme-typing-svg.demolab.com?font=Lato&weight=900&size=24&duration=3000&pause=900&color=F7961D&center=true&vCenter=true&width=900&lines=Cybersecurity+Architect;AI+Engineer+%7C+Tech+Architect;Secure+Systems+%7C+Intelligent+Automation;Engineering+Teams+That+Perform" />
+
+</div>
 
 ---
 
-## `whoami`
+```txt
+┌─ SYSTEM PROFILE ─────────────────────────────────────┐
+│ Name        : Pasi Abe                               │
+│ Role        : Cybersecurity Architect / AI Engineer  │
+│ Focus       : Secure Systems, AI, Infrastructure     │
+│ Leadership  : Enable people to maximize potential    │
+└──────────────────────────────────────────────────────┘
+```
+
+## Mission
+
+I design and build secure, scalable, AI-enabled technology systems.
+
+My work sits at the intersection of **cybersecurity**, **AI engineering**, **platform architecture**, and **infrastructure automation** — with a focus on building systems that are secure by design, operationally resilient, and practical at scale.
+
+---
+
+## Operating Domains
+
+| Domain | Focus |
+|---|---|
+| **Cybersecurity Architecture** | Secure design, risk reduction, resilience, governance |
+| **AI Engineering** | LLMs, autonomous agents, AI workflows, automation |
+| **Technology Architecture** | Platform design, APIs, distributed systems, SaaS architecture |
+| **Infrastructure Engineering** | Linux, Docker, networking, reverse proxies, cloud operations |
+| **DevSecOps** | CI/CD, hardening, secure delivery, automation-first operations |
+| **People Leadership** | Mentoring, enablement, technical growth, team performance |
+
+---
+
+## Engineering Stack
+
+```txt
+Security      ████████████████████  Architecture · Controls · Resilience
+AI / LLMs     ███████████████████░  Agents · Automation · Workflows
+Platforms     ███████████████████░  APIs · SaaS · Distributed Systems
+Infra         ██████████████████░░  Linux · Docker · Cloud · Networks
+Leadership    ████████████████████  Trust · Mentoring · Enablement
+```
+
+---
+
+## Tools & Technologies
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Cybersecurity-111111?style=flat-square&logo=hackthebox&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Engineering-F7961D?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Architecture-0A192F?style=flat-square&logo=datadog&logoColor=white" />
+<img src="https://img.shields.io/badge/DevSecOps-222222?style=flat-square&logo=dependabot&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+
+</p>
+
+---
+
+## I Build
 
 ```bash
-pasi@github:~$ whoami
-
-Cybersecurity Architect
-AI Engineer
-Infrastructure Engineer
-Technology Leader
-People Enabler
+secure-platforms
+ai-agent-systems
+cybersecurity-automation
+devsecops-workflows
+infrastructure-platforms
+compliance-engineering-tools
+enterprise-backend-systems
 ```
-
-Security-focused technology architect specializing in cybersecurity engineering, AI/LLM systems, infrastructure automation, and secure platform architecture.
-
-I build secure-by-design systems, autonomous AI workflows, scalable engineering platforms, and modern infrastructure solutions designed for resilience, performance, and operational excellence.
 
 ---
 
-## Focus Areas
+## Engineering Principles
+
+> Secure by design.  
+> Automate with purpose.  
+> Build for scale.  
+> Lead with trust.  
+> Enable people to do their best work.
+
+---
+
+## GitHub Signal
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=F7961D&icon_color=F7961D&text_color=ffffff" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=F7961D&text_color=ffffff" />
+
+</p>
+
+---
+
+<div align="center">
 
 ```txt
-Cybersecurity Architecture   ████████████████████   Secure design · risk · resilience
-AI Engineering               ███████████████████░   LLMs · agents · automation
-Infrastructure Engineering   ███████████████████░   Linux · Docker · cloud · networks
-DevSecOps                    ██████████████████░░   CI/CD · hardening · automation
-Technical Leadership         ████████████████████   Mentoring · enablement · growth
+SECURE SYSTEMS  ·  INTELLIGENT AUTOMATION  ·  EMPOWERED PEOPLE
 ```
 
----
-
-## Tech Arsenal
-
-### Security & AI
-
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&logo=hackthebox&logoColor=white)
-![AI Engineering](https://img.shields.io/badge/AI_Engineering-7B2FBE?style=for-the-badge&logo=openai&logoColor=white)
-![DevSecOps](https://img.shields.io/badge/DevSecOps-0A192F?style=for-the-badge&logo=dependabot&logoColor=white)
-![Architecture](https://img.shields.io/badge/Tech_Architecture-161B22?style=for-the-badge&logo=datadog&logoColor=white)
-
-### Engineering Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Infrastructure
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud_Engineering-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
----
-
-## What I Build
-
-```txt
-> Autonomous AI systems & engineering agents
-> Secure cloud-native applications
-> Cybersecurity automation tooling
-> Infrastructure & DevSecOps platforms
-> Compliance & governance solutions
-> Enterprise-grade backend architectures
-```
-
----
-
-## Engineering Philosophy
-
-```txt
-Security should be engineered in — not added later.
-Automation should remove friction — not increase complexity.
-AI should amplify engineering capability — not replace thinking.
-Leadership should empower people to maximize their potential.
-```
-
----
-
-## GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## Leadership
-
-Beyond technology, I’m passionate about building strong engineering cultures through mentorship, enablement, and continuous improvement.
-
-I believe great teams are built when people are trusted, supported, and empowered to grow technically and professionally.
-
----
-
-```txt
-Secure Systems • Intelligent Automation • Empowered People
-```
+</div>
