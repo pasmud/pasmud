@@ -1,4 +1,4 @@
-# Pasi Abe
+# Merge_Conflict - Pasi
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&weight=900&color=F7961D&size=22&duration=3000&pause=1000&width=900&height=60&lines=Cybersecurity+Architect+%7C+AI+Engineer+%7C+Tech+Architect;Secure+Systems+%7C+Autonomous+AI+%7C+Infrastructure+Engineering;Building+Technology+That+Protects%2C+Scales%2C+and+Empowers)](https://github.com/YOUR_USERNAME)
 
